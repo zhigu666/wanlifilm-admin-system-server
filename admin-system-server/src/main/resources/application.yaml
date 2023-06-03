@@ -30,9 +30,10 @@ token:
     expire: 604800
     #响应回vue，token挂到响应头
     header: token
+    #阿里云配置
 aliyun:
-  accessKeyId: LTAI5tDs9t2ya4eXYdQaCaJC
-  secretAccessKey: 8W2uMMonkBiPWkZ6lZ3sUkA65nyOtV
+  accessKeyId: 
+  secretAccessKey: 
   oss:
-    endPoint: oss-cn-hangzhou.aliyuncs.com
-    bucketName: zhi-lan
+    endPoint: 
+    bucketName: 
